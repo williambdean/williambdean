@@ -1,20 +1,17 @@
 # Hello :wave:
 
-My name is Will Dean. My background is in Statistics and have been working as a Data Scientist the last 4 years in the transportation and real estate industries. 
+My name is Will Dean. My background is in Statistics and have been working as a Data Scientist in the transportation and real estate industries. 
 
-I enjoy working with geographical data. Most likely because it helps me forget about my [*Fernweh*](https://www.linguee.de/deutsch-englisch/search?source=auto&query=fernweh). I love to travel and figure out how the world works while talking to people in the process. 
+I enjoy working with geographical data and exploring user behavior.
 
-I am currently interested in exploring different Bayesian models, specifically with the library `PyMC`. I find the software fun to use and very helpful for the problems I like to solve. 
+The tools I reach for frequently are Python and Docker. I will use libraries like: 
 
-Some of my other favorite python software recently is:  
-
-- `PyYAML`
-- `rich`
-- `fastapi` / `typer` (big fan of all the creator's work)
+- `PyMC`
 - `geopandas`
+- `typer`
 
-As of late, I have been exploring python code design techniques to create easy-to-use APIs that can be easily extended. This [YouTube Channel](https://www.youtube.com/c/ArjanCodes) has been an inspiration for me. 
+I am not foreign to opening up a GitHub Issue or PR :smile:
 
-I love to learn and collaborate so feel free to [connect with me](https://www.linkedin.com/in/williambdean/)! I've been looking into freelancing and have some options posted [here](https://www.fiverr.com/williamdean600?up_rollout=true) as well. 
+I love to learn and collaborate so feel free to [connect with me](https://www.linkedin.com/in/williambdean/) or keep up with [my blog](https://wd60622.github.io/blog/)
 
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=wd60622&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
