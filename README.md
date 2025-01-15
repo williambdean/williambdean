@@ -15,7 +15,7 @@ I've created a few other data science projects:
 and work on some other tools for making my development life easier:
 
 - [octo.nvim](https://github.com/pwntester/octo.nvim)
-- [closing-issues](https://github.com/wd60622/closing-issues)
+- [closing-labels](https://github.com/wd60622/closing-labels)
 
 I am not foreign to opening up a GitHub Issue, PR, or both :smile:
 
