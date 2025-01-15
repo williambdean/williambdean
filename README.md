@@ -1,20 +1,21 @@
 # Hello :wave:
 
-My name is Will Dean. My background is in Statistics and have been working as a Data Scientist in the transportation and real estate industries. 
+My name is Will Dean.
 
-I enjoy working with geographical data, exploring user behavior, and seeing where they intersect.
+I'm working on [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing)
+with the [PyMC Labs](https:/www.pymc-labs.io) team. We are building a package
+to help make better decisions with Bayesian statistics.
 
-The tools I reach for frequently are Python and Docker. I will use libraries like: 
+I've created a few other data science projects:
 
-- `PyMC`
-- `geopandas`
-- `typer`
-
-Or will create my own like: 
-
-- [latent-calendar](https://github.com/wd60622/latent-calendar)
 - [conjugate-models](https://github.com/wd60622/conjugate)
 - [pandas-bootstrap](https://github.com/wd60622/pandas-bootstrap)
+- [latent-calendar](https://github.com/wd60622/latent-calendar)
+
+and work on some other tools for making my development life easier:
+
+- [octo.nvim](https://github.com/pwntester/octo.nvim)
+- [closing-issues](https://github.com/wd60622/closing-issues)
 
 I am not foreign to opening up a GitHub Issue, PR, or both :smile:
 
