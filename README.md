@@ -3,7 +3,7 @@
 My name is Will Dean.
 
 I'm working on [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing)
-with the [PyMC Labs](https:/www.pymc-labs.io) team. We are building a package
+with the [PyMC Labs](https://www.pymc-labs.io) team. We are building a package
 to help make better decisions with Bayesian statistics.
 
 I've created a few other data science projects:
